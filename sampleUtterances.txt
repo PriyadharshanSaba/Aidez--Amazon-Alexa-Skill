@@ -1,0 +1,27 @@
+ReindeerIntent Tell me the cheat for {Reindeer}
+ReindeerIntent How to {Reindeer}
+ReindeerIntent get {Reindeer}
+ReindeerIntent act {Reindeer}
+ReindeerIntent What is {Reindeer}  cheat
+ReindeerIntent What is {Reindeer}  cheat code
+ReindeerIntent What is cheat code {Reindeer}
+ReindeerIntent What is the cheat code {Reindeer}
+ReindeerIntent What is cheat code for {Reindeer}
+ReindeerIntent What is the cheat code for {Reindeer}
+ReindeerIntent How do i {Reindeer}
+ReindeerIntent How do i act {Reindeer}
+ReindeerIntent How can i {Reindeer}
+ReindeerIntent How do i get {Reindeer}
+ReindeerIntent How to go {Reindeer}
+ReindeerIntent How to get {Reindeer}
+ReindeerIntent How can i get a {Reindeer}
+ReindeerIntent How can i get {Reindeer}
+ReindeerIntent How to act {Reindeer}
+ReindeerIntent How do i act {Reindeer}
+ReindeerIntent How do i become {Reindeer}
+ReindeerIntent How to be {Reindeer}
+ReindeerIntent How to become {Reindeer}
+ReindeerIntent Tell me some facts about {Reindeer}
+AMAZON.HelpIntent Tell me cheats
+AMAZON.HelpIntent Tell me what cheat codes you have
+AMAZON.HelpIntent Tell me what cheat codes do you have
