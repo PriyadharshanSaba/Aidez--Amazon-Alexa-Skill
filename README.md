@@ -8,3 +8,5 @@ You can ask for cheats like Max health, explosives and explosive attack, lower o
 
 FIND THE APP IN THE AMAZON ALEXA STORE : <a style="text-decoration:none" href="https://www.amazon.com/Priyadharshan-Saba-Aidéz/dp/B073FYWDBZ/ref=sr_1_1?s=digital-skills&ie=UTF8&qid=1513009450&sr=1-1&keywords=aidez">Aidéz - <i>by Priyadharshan Saba</i> </a>
 
+<i>Other Apps:  <a  style="text-decoration:none" href="https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dalexa-skills&field-keywords=priyadharshan+saba"> Priyadharshan Saba </i>
+
